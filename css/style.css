@@ -23,7 +23,7 @@ body {
   place-content: center;
   background-color: var(--cream);
   padding: 2.2rem;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .card {
